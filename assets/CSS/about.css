@@ -1,0 +1,30 @@
+.about__header {
+    background-color: var(--bs-white);
+    color: #8D8D8D;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.about__header-banner {
+    padding: 20px;
+}
+
+.about__body-contact {
+    background-color: var(--bs-white);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.contact--header {
+    text-transform: uppercase;
+}
+
+.contact--details {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.contact--details-web-text a {
+    color: var(--bs-black);
+}
